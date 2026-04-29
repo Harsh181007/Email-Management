@@ -187,12 +187,14 @@ plotly>=5.19.0
 ```
 
 ## Screenshots 
-  ### Reminder Analysis <img src="Assets/Reminder Analysis.png" width = "700"/>
+  ### Reminder Analysis
+  <img src="Assets/Reminder Analysis.png" width = "700"/>
 
-  ### Reminder Calendar <img src="Assets/Reminder Calendar.png" width = "700"/>
+  ### Reminder Calendar
+  <img src="Assets/Reminder Calendar.png" width = "700"/>
 
-  ### Momentum Trend    <img src="Assets/Momentum Trend.png" width = "700"/>
-
+  ### Momentum Trend
+  <img src="Assets/Momentum Trend.png" width = "700"/>
 
 
 ## Known Limitations
